@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505b5f42-c3d9-46f1-be08-82bcba782199" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Asso.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/AssoController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/TableController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/datatables/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/table.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/menu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +201,17 @@
       <workItem from="1566153101881" duration="3462000" />
       <workItem from="1566157320209" duration="5413000" />
       <workItem from="1566945233489" duration="42000" />
-      <workItem from="1567006356686" duration="4072000" />
+      <workItem from="1567006356686" duration="4696000" />
+      <workItem from="1567273037095" duration="7000" />
+      <workItem from="1567889800628" duration="3937000" />
+      <workItem from="1569260685460" duration="609000" />
+      <workItem from="1569431896324" duration="10000" />
+      <workItem from="1572896858598" duration="114000" />
+      <workItem from="1579201809931" duration="624000" />
+      <workItem from="1579985170648" duration="2295000" />
+      <workItem from="1579988510586" duration="1801000" />
+      <workItem from="1580245322595" duration="25000" />
+      <workItem from="1581257209300" duration="33000" />
     </task>
     <servers />
   </component>
@@ -228,7 +231,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
